@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# To-Do Tracker Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project, You can add, edit, update and delete the notes. Also, you can check out the completed tasks.\
+This was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+Created using __React, React Hooks like useContext & useReducer__\
+Deployed in Firebase cloud.\
+Check it out my app here: [To-do-app](https://to-do-tracker-d.web.app)
 
 ## Available Scripts
 
